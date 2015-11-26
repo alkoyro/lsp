@@ -1,0 +1,85 @@
+.overview {
+    margin-left: 20px;
+}
+
+.menu {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.jp-audio-wrapper {
+    width: auto !important;
+}
+
+ul.jp-volume-controls a {
+    display: block;
+    overflow: hidden;
+    text-indent: -9999px;
+}
+
+ul.jp-volume-controls {
+    padding: 20px 20px 0;
+    width: 156px;
+}
+
+ul.jp-volume-controls {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    float: right;
+}
+
+ul.jp-volume-controls li {
+    display: inline;
+    float: left;
+}
+
+div.jp-controls-wrapper {
+    display: inline-block;
+    float: left;
+    width: 126px;
+}
+
+div.jp-controls-wrapper ul {
+    width:auto !important;
+}
+
+.jp-progress-bar {
+    width: 100%;
+}
+
+.jp-progress-bar-left-wrapper {
+    margin-left: 137px;
+}
+
+.jp-progress-bar-right-wrapper {
+    margin-right: 215px;
+}
+
+.jp-progress-wrapper {
+    width: 100% !important;
+    float: left;
+    position: relative !important;
+    left: auto !important;
+}
+
+.jp-volume-bar-wrapper {
+    display: inline-block;
+    float: right;
+    width: 194px;
+}
+
+.jp-time-holder-wrapper {
+    left: 45% !important;
+}
+
+.jp-mute-wrapper, .jp-unmute-wrapper {
+    margin-left: auto !important;
+}
+
+.jp-volume-max-wrapper {
+    margin-left: 120px !important;
+}
+
+
+
